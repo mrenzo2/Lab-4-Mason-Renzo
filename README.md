@@ -2,4 +2,4 @@
 ## Compile
 gcc -no-pie lab4.s print.c -o lab4
 ## Run
-./lab4
+./lab4 <datafile>
